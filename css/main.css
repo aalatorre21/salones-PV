@@ -111,21 +111,33 @@ img{
 }
 
 .logo-margin{
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
 
 .nav{
   margin-top: 50px;
+  padding-left: 35%;
 }
 
 .gallery-margin{
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 
+.social-icons{
+  width: 30px;
+  margin-top: 30px;
+  margin-left: 15px;
+}
 
+.nav li{
+  border-left: 1px solid #d4af37;
+}
 
+.nav a{
+  color: black;
+}
 
 
 
