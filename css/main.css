@@ -139,7 +139,9 @@ img{
   color: black;
 }
 
-
+.title-serif{
+  font-family: 'Bilbo Swash Caps', cursive;;
+}
 
  /* ==========================================================================
    Helper classes
@@ -221,6 +223,8 @@ img{
   clear: both;
 }
 
+.text-center{text-align:center;
+}
  
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
@@ -315,5 +319,6 @@ img{
         page-break-after: avoid;
     }
 }
+
 
 
