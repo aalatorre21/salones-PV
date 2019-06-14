@@ -102,8 +102,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 * {
-  font-family: 'Montserrat' ;
+  font-family: 'Bilbo Swash Caps', cursive;
+font-family: 'Montserrat', sans-serif;
 }
+
 
 img{
   width: 100%;
@@ -139,9 +141,7 @@ img{
   color: black;
 }
 
-.title-serif{
-  font-family: 'Bilbo Swash Caps', cursive;;
-}
+
 
  /* ==========================================================================
    Helper classes
@@ -224,6 +224,10 @@ img{
 }
 
 .text-center{text-align:center;
+}
+
+.title-serif{
+  font-family: 'Bilbo Swash Caps', cursive;;
 }
  
 /* ==========================================================================
